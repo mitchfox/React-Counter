@@ -1,2 +1,0 @@
-# ReactCounter
-Created with CodeSandbox
