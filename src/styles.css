@@ -1,4 +1,16 @@
+body {
+  background-color: #222222;
+  color: white;
+}
+button {
+  margin: 10px;
+  padding: 10px;
+  background-color: lightblue;
+  color: grey;
+  border: none;
+}
+
 .App {
-  font-family: sans-serif;
   text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
